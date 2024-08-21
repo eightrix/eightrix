@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eightrix! I'm a Product Designer & Full Stack Software Developer.
-- 👀 I’m interested in UI/UX design, Frontend, and Backend development to build scalable apps and solutions that solve real human problems
+- 👋 Hi, I’m @eightrix! I'm a product designer & full stack software developer. I have experience designing user-centric products and building scalable apps and systems that solve real human problems.
+- 👀 I’m interested in product design (Adobe XD, Figma) and full stack software development (PHP, JavaScript, SQL and NoSQL).
 - 🌱 I’m currently learning Python/Django and the MERN stack
 - 💞️ I’m looking to collaborate on open-source, proprietary and community-based projects
 - 📫 How to reach me: @eightrix here and @codetwista on X

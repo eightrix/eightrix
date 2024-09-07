@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eightrix! I'm a Product Designer & Full Stack Software Developer
+- 👋 Hi, I’m @eightrix! I'm a Product Designer & Software Developer
 - 👀 I’m interested in product design and full stack software development
 - 🌱 I’m currently learning Python/Django and the MERN stack
 - 💞️ I’m looking to collaborate on open-source, proprietary and community-based projects

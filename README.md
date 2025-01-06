@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eightrix! I'm a Software Developer
+- 👋 Hi, I’m @eightrix! I'm a full stack software developer
 - 👀 I’m interested in product design and full stack software development
 - 🌱 I’m currently learning Python/Django and the MERN stack
 - 💞️ I’m looking to collaborate on open-source, proprietary and community-based projects
-- 📫 How to reach me: @eightrix here and @codetwista on X
+- 📫 How to reach me: @eightrix here and @the8rix on X
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a knack for musical instruments
 
